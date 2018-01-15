@@ -1,0 +1,11 @@
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\bin\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.deps.json
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\bin\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.runtimeconfig.json
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\bin\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.runtimeconfig.dev.json
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\bin\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.dll
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\bin\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.pdb
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\obj\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.csprojResolveAssemblyReference.cache
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\obj\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.csproj.CoreCompileInputs.cache
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\obj\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.AssemblyInfoInputs.cache
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\obj\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.AssemblyInfo.cs
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\obj\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.dll
+C:\Users\RGS\Documents\Visual Studio 2017\Projects\AspNetCoreRedisCacheSamlpe\AspNetCoreRedisCacheSample\obj\Debug\netcoreapp2.0\AspNetCoreRedisCacheSample.pdb
